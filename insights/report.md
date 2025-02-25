@@ -12,8 +12,10 @@ Este relatório apresenta uma análise detalhada dos dados de vendas de consoles
 - Analisar a faixa etária dos compradores para entender o público-alvo.
 
 #### Metodologia de Análise
+A ferramenta de IA utilizada foi o **Microsoft Copilot Desktop**.
+
 A análise foi realizada utilizando técnicas de agrupamento e sumarização de dados. As principais etapas incluíram:
-1. **Carregamento e Limpeza dos Dados:** Importação dos dados e tratamento de valores ausentes.
+1. **Carregamento dos Dados:** Importação e consolidação dos dados.
 2. **Agrupamento e Sumarização:** Cálculo de totais e médias para diferentes categorias.
 3. **Análise Temporal:** Identificação de tendências e sazonalidade nas vendas.
 4. **Análise Geográfica:** Identificação dos principais mercados e preferências regionais.
